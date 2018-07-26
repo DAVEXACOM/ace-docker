@@ -1,0 +1,11 @@
+description: App Connect Enterprise Server
+icon: https://raw.githubusercontent.com/ot4i/ace-helm/master/appconnect_enterprise_logo.svg?sanitize=true
+keywords:
+- Limited
+- amd64
+- ICP
+- ACE
+- Integration
+name: ibm-ace-dev
+tillerVersion: '>=2.7.2'
+version: 1.0.0
